@@ -1,0 +1,21 @@
+ALL YOU NEED TO DO
+
+1- OPEN TERMINAL
+
+2- OPEN IT AS ROOT OR TYPE sudo su
+
+3- TYPE git clone https://github.com/l7nc7/ARMITAGE-DDOS-MENU
+
+4- AFTER DOWNLOAD IT TYPE cd ARMITAGE-DDOS-MENU
+
+5- THEN TYPE cd armitage
+
+6- NOW THE COMMANDS TO RUN IT IS chmod 777 *
+
+7- AFTER TYPE CHMOD 777 *. TYPE ./start
+
+now should the menu is running 
+
+Perfer to use it in VPS server for high power of ddos attacks
+
+(SHOULD THAT VPS SERVER U WILL USE IT SUPPORTS LINUX!)
